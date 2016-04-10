@@ -1,0 +1,14 @@
+{
+  "name": "azure-functions-auth0-boilerplate",
+  "version": "1.0.0",
+  "description": "Sample showing how to use azure-functions-auth0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandrino Di Mattia",
+  "license": "MIT",
+  "dependencies": {
+    "azure-functions-auth0": "~1.0.0"
+  }
+}
